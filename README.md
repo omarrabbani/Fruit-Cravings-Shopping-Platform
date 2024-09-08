@@ -1,1 +1,4 @@
 # Fruit-Cravings-eCommerce-Site
+![PWSite](https://github.com/user-attachments/assets/8790dd8c-97bb-458d-a9a6-c3cb8d919a61)
+
+This project is a dynamic, JavaScript-driven website for a fruit cravings platform. It allows users to explore different fruits and seamlessly transition between various product selections. Each fruit product features a BUY NOW button that takes users to the product section, where they can see more details about the selected fruit and proceed to the checkout page. Users can initiate the purchase process by clicking the second BUY NOW button, which triggers a modal pop-up containing payment details. JavaScript, HTML, and CSS are used to build a responsive and engaging user interface that provides a smooth shopping experience, demonstrating coherent front-end development expertise. 
